@@ -18,6 +18,18 @@
 }
 
 .navbar li a:link{
+    color:white;
+}
+.navbar li a:visited{
+    color:white;
+}
+.navbar li a:hover{
+    color:white !important;
+}
+.navbar li a:active{
+    color:white;
+}
+/* .navbar li a:link{
     color:black;
 }
 .navbar li a:visited{
@@ -28,7 +40,7 @@
 }
 .navbar li a:active{
     color:black;
-}
+} */
 
 .navbar-logo-img{
     width:8em;
@@ -36,3 +48,6 @@
     border-radius:50%;
 }
 
+body{
+    background-size:cover;
+}
