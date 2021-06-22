@@ -17,6 +17,7 @@
     position:relative;
 }
 .profile_pic{
+    align-items: center;
     height:12em;
     width:12em;
     border-radius:50%;
@@ -29,6 +30,7 @@
 }
 .profile_detail{
     text-align:center;
+    align-items: center;
     margin-top:1em;
 }
 .profile_name{
@@ -68,3 +70,6 @@ i{
     margin-right:1.4em;
 }
 
+.row{
+    align-items: center;
+}
