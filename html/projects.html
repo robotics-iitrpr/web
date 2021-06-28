@@ -30,7 +30,7 @@
 
     <script>
       function content(){
-          fetch("https://robotics-iitrpr.github.io/web_data/projects/info.txt").then(
+          fetch("https://robotics-iitrpr.github.io/web_data/projects/info.html").then(
               async resp => {
                 var txt = await resp.text();
                 document.getElementById("projectContent").innerHTML = txt;
