@@ -51,7 +51,7 @@ $(document).ready(function(){
     $("#iemail11").click(function(){
         $("#email11").toggle();
     });
-    $("#iemail11").click(function(){
+    $("#iemail12").click(function(){
         $("#email12").toggle();
     });
 
