@@ -3,7 +3,7 @@
 }
 
 #about-text{
-    font-family:'Roboto', sans-serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     margin-bottom:1.54em;
     line-height: 1.8;
     text-align:justify;
@@ -13,7 +13,6 @@
 .about_heading{
     margin-top:1.4em;
     color:black;
-    /* color:black; */
     text-align:center;
 
 }

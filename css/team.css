@@ -2,11 +2,11 @@
     margin-top:1.4em;
     color:black;
     text-align:center;
-
+    /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
 }
 .representatives_heading{
     text-align:center;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     margin-top:1.4em;
     margin-bottom:1em;
     font-size:2em;
@@ -35,13 +35,15 @@
 }
 .profile_name{
     text-align:center;
-    font-family: 'Roboto Slab', serif;
+    /* font-family: 'Roboto Slab', serif; */
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 1.2em;
     color:grey;
 }
 .profile_info{
     text-align:center;
-    font-family:'Roboto',serif;
+    /* font-family:'Roboto',serif; */
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size:1em;
     color:grey;
 }
